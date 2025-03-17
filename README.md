@@ -1,7 +1,7 @@
-# Política de Privacidad
+# Política de Privacidad - JobPoint MultiEmpresas
 **Última actualización:** 10-02-2025  
 
-Bienvenido a **Jobpoint Multi Empresas**. Nos comprometemos a proteger tu privacidad y garantizar la seguridad de tu información. Esta política describe cómo recopilamos, usamos y protegemos los datos de los usuarios.
+Bienvenido a **Jobpoint Multi Empresas** desarrollada por Miguel Angel Fernandez Montalvo. Nos comprometemos a proteger tu privacidad y garantizar la seguridad de tu información. Esta política describe cómo recopilamos, usamos y protegemos los datos de los usuarios.
 
 ## 📌 1. Información que Recopilamos  
 Para el correcto funcionamiento de nuestra aplicación, recopilamos y utilizamos la siguiente información:
